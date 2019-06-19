@@ -6,4 +6,8 @@ Creating a new branch is quick.
 
 Creating a new branch is quick and simple.
 
+<<<<<<< HEAD
 Git is a free software ...
+=======
+e++++++++++++++
+>>>>>>> dev
